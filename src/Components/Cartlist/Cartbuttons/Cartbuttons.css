@@ -1,0 +1,20 @@
+.cart-btn{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    height: 35px;
+    width: 7rem;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.cart-btn2{
+    background-color: rgb(110, 226, 110);
+    color: white;
+    font-size: 18px;
+    height: 35px;
+    width: 7rem;
+    margin-top: 10px;
+    border: 1px;
+    margin-left: 20px;
+
+}

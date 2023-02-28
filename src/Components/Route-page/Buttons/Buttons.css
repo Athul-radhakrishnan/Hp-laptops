@@ -1,0 +1,11 @@
+.B-buttons{
+    display: flex;
+    margin-left: 150px;
+
+}
+.rate{
+    margin-left: 10px;
+}
+.decrease{
+    margin-left: 10px;
+}

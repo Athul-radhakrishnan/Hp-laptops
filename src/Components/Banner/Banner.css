@@ -1,0 +1,20 @@
+.banner{
+   background-color: #f3f3f3;
+   border-top: 1px solid rgb(197, 193, 193);
+   height: 50px;
+   margin-top: -10px;
+   display: flex;
+   
+}
+.banner-ul{
+    display: flex;
+    list-style: none;
+    margin-left: 50px;
+}
+.banner-ul li{
+    padding-left: 5px;
+    font-size: 14px;
+}
+.banner-img img{
+  padding-left:54rem;
+}

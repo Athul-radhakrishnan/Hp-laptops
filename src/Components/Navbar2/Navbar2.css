@@ -1,0 +1,46 @@
+.logo-img{
+    width: 65px;
+}
+.second-nav{
+    margin-left: 10px;
+    margin-top: 25px;
+    display: flex;
+}
+.nav-list{
+    display: flex;
+    list-style: none;
+
+}
+.nav-list li{
+   margin-left: 30px; 
+
+
+}
+.text-field{
+    border: 1px solid black;
+    width: 45rem;
+    height: 30px;
+    display: flex;
+   
+
+
+}
+
+
+
+
+
+
+
+.sales{
+    margin-top: 30px;
+   margin-left: 200px;
+  
+}
+.sales a{
+    text-decoration: none;
+    font-weight: 500;
+    color: rgb(124, 123, 123);
+}
+
+

@@ -1,0 +1,200 @@
+
+.side-bar{
+    margin-top: 20px;
+    display: flex;
+   
+    
+   
+   
+    
+    
+}
+/* .first-card{
+    display: flex;
+} */
+
+
+/* .flex-wrap{
+    height: auto;
+    width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+
+} */
+
+
+.S-button{
+   
+   background-color: white;
+   border: 0px;
+   width: 20rem;
+   border-bottom: 0.75px solid black;
+   margin-left: 30px;
+   
+  
+}
+.S-button:hover{
+    background-color: rgb(238, 236, 236);
+}
+.price-p1{
+    color: rgb(83, 82, 82);
+    text-align: left;
+    font-size: 15px;
+}
+.qs-mark{
+    font-size: 20px;
+
+}
+.qs-mark:hover{
+    transform: scale(1.20);
+    transition: 2s;
+    color: rgb(156, 153, 153); ;
+    
+}
+.plus-icon{
+   
+    margin-left: 195px;
+    font-size: 30px;
+ 
+}
+.plus-icon1{
+    margin-top: -50px;
+    margin-left: 270px;
+    font-size: 30px;
+   
+
+}
+
+/* mapping */
+
+.card{
+    margin-left: 10px;
+    display: flex;
+    height:auto;
+    width: 1200px;
+    flex-wrap: wrap;
+ 
+   
+}
+
+
+.main-container{
+    border: 1px solid rgb(224, 222, 222);
+    width: 310px;
+    height: 41rem;
+   
+    
+   
+   
+   
+}
+.main-container:hover{
+    background-color:rgb(231, 231, 231);
+
+}
+
+.stock-btn{
+    font-size: 20px;
+    color: green;
+    
+}
+.lap-image{
+    margin-left: 80px;
+    width: 11rem;
+    margin-top: 0px;
+}
+.lap-name{
+    font-size: 20px;
+    margin-left: 30px;
+    color: rgb(58, 56, 56);
+
+}
+.star{
+    margin-left: 25px;
+}
+.form-line{
+    width: 90%;
+    height: 40px;
+    margin: 0 auto;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black ;
+}
+.form{
+    margin-top: 10px;
+   
+}
+.square{
+    font-size: 18px;
+}
+.label{
+   margin-left: 5px;
+    
+    font-size: 18px;
+}
+
+
+.stock{
+    display: flex;
+    margin-left: 18px;
+}
+.lap-para{
+    font-size: 13px;
+     color: rgb(2, 0, 0);
+     margin-left: 24px;
+}
+.price-tag{
+    display: flex;
+    margin-left: 20px;
+}
+.lap-info2{
+    background:#4EF5AB;
+    margin-left: 10px;
+    font-size: 12px;
+    
+    height: 15px;
+    font-weight: 500;
+}
+.lap-price{
+    margin-left: 20px;
+    font-size: 23px;
+    font-weight: 500;
+    color: black;
+}
+.tax-price{
+    display: flex;
+    margin-top: -30px;
+}
+.tax{
+    font-size: 13px;
+    margin-top: 30px;
+    color: grey;
+}
+.gst{
+    margin-top: -10px;
+    margin-left: 20px;
+    font-size: 13px;
+    color: grey;
+}
+.details{
+    display: flex;
+}
+.v-details{
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    margin-left: 20px;
+    text-decoration: none;
+}
+.arrow{
+   margin-top: 6px;
+    font-size: 18px;
+}
+.cart-btn{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    height: 35px;
+    width: 7rem;
+    margin-top: 10px;
+    margin-left: 20px;
+}

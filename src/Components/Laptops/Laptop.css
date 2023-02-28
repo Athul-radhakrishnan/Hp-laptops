@@ -1,0 +1,41 @@
+.lp-h1{
+    text-align: center;
+    font-size: 24px;
+}
+.lp-h2{
+    margin-top: 40px;
+    text-align: center;
+    
+}
+.btn-list {
+    list-style: none;
+    display: flex;
+    margin-left: 120px;
+}
+.lp-btn{
+    border-radius: 20px;
+    border: 1px solid rgb(228, 225, 225);
+    margin-left: 12px;
+    width: 120px;
+    height: 45px;
+    background-color: white;
+    color: rgb(124, 123, 123);
+}
+.lp-btn:hover{
+    background-color: rgb(221, 218, 218);
+}
+.lp-btn2{
+    border-radius: 20px;
+    border: 1px solid rgb(228, 225, 225);
+    margin-left: 12px;
+    width: 15rem;
+    height: 45px;
+    background-color: white;
+    color: rgb(124, 123, 123);
+
+}
+.lp-btn2:hover{
+    background-color: rgb(199, 196, 196);
+   
+
+}

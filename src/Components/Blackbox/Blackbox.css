@@ -1,0 +1,31 @@
+.black-box{
+    background-color: black;
+    height: 60px;
+    margin-top: 80px;
+    color: white;
+    display: flex;
+}
+.p1{
+    margin-left: 25px;
+}
+.p2{
+    padding-left: 30rem;
+}
+.vl{
+    border: 1px solid white;
+    height: 15px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.black-box1{
+    color: white;
+    display: flex;
+    padding-left: 18rem;
+
+}
+.cars option{
+    background-color: #fff;
+    color: black;
+
+}
+

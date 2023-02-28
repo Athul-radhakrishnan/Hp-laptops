@@ -1,0 +1,26 @@
+.flag{
+    padding-top: 200px;
+}
+.flag-list{
+    display: flex;
+}
+.flag-list li{
+    margin-left: 10px;
+    list-style: none;
+
+}
+.hr{
+    width: 95%;
+}
+.flag-list li img{
+   
+    width: 19px;
+
+}
+.image-list{
+    display: flex;
+}
+.image-list li{
+    list-style: none;
+
+}

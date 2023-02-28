@@ -1,0 +1,107 @@
+.main-grid{
+    margin-top: 17px;
+}
+.R-para1{
+    margin-left: 30px;
+    margin-top: 20px;
+    color:#165dba ;  
+}
+.R-h2{
+    margin-left: 30px;
+    margin: 30px;
+}
+.C-hr{
+    width: 95%;
+}
+.cart-grid{
+    margin-left: 45px;
+    display: flex;
+    
+}
+.chromebook1{
+    margin-left: 20px;
+    font-size: 21px;
+    font-weight: 500;
+}
+.chromebook2{
+    font-size: 13px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.chromebook3{
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 30px;
+    color:#165dba ;  
+
+
+}
+.chromebook4{
+    margin-left: 150px;
+}
+.chromebook5{
+    margin-left: 150px;
+    margin-top: 25px;
+}
+.chromebook6{
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 150px;
+    margin-top: 30px;
+    color:#165dba ;  
+}
+
+
+
+
+
+.second-grid{
+     height: 30rem;
+    background-color: rgb(230, 227, 227);
+}
+.summary{
+    width: 90%;
+    background-color: white;
+   
+}
+.total{
+    display: flex;
+    
+}
+.S-para{
+    font-size: 18px;
+    margin-left: 20px;
+    font-weight: 500;
+   
+}
+.second{
+    margin-left: 130px;
+}
+.third{
+    display: flex;
+    background-color: rgb(90, 88, 88);
+}
+.s-arrow{
+    margin-left: 130px;
+    font-size: 25px;
+}
+.s-hr{
+   width: 90%;
+   border: 1px solid rgb(211, 210, 210);
+}
+.t-amount1{
+     margin-left: 20px;
+    font-weight: 500;
+    font-size: 20px;
+    color: white;
+
+}
+.t-amount2{
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 150px;
+    color: white;
+
+
+}

@@ -1,0 +1,100 @@
+.Route-nav{
+    display: flex;
+    border-bottom: 1px solid rgb(230, 227, 227);
+}
+.R-hpimg{
+    width: 65px;
+    margin-left: 30PX;
+
+}
+.R-ul{
+    display: flex;
+    padding-left: 80px;
+    margin-top: 60px;
+}
+.R-ul li{
+    list-style: none;
+   
+    
+    padding-top: 20px;
+   
+}
+
+
+.dott{
+    padding-left: 180px;
+    position: absolute;
+    margin-top: 20px;
+}
+
+
+.R-dott{
+    position: absolute;
+   padding-top:13px;
+   padding-left: 5px;
+   font-size: 25px;
+   color: #165dba;
+}
+.R-dott2{
+    position: absolute;
+    margin-left: 240px;
+    margin-top: -20px;
+    font-size: 25px;
+    color: #165dba;
+   
+
+}
+.R-dott3{
+    position: absolute;
+    margin-left: 31rem;
+    margin-top: -20px;
+    font-size: 25px;
+    color: #165dba;
+    
+
+}
+
+.R-hr{
+    border: 1px solid rgb(241, 241, 241);
+    margin-top: 25px;
+    width: 30rem;
+    margin-left: 20px;
+   
+
+}
+.R-hr2{
+    position: absolute;
+    width: 100px;
+    border: 1px solid  rgb(233, 233, 238);
+    margin-left: 135px;
+    margin-top: -10px;
+    
+   
+
+}
+.cart-1{
+    position: absolute;
+    font-weight: 500;
+    
+}
+.checkout{
+   
+    margin-left: 220px;
+    font-weight: 500;
+}
+.confirmation{
+    margin-left: 160px;
+    font-weight: 500;
+
+}
+.check-buttton{
+    width: 25rem;
+    height: 45px;
+    background-color: #165dba;
+    margin-top: 30px;
+    color: white;
+    border: none;
+    margin-left: 170px;
+    font-weight: 600;
+    font-size: 14px;
+}
