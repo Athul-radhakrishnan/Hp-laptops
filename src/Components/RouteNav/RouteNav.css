@@ -57,16 +57,16 @@
 .R-hr{
     border: 1px solid rgb(241, 241, 241);
     margin-top: 25px;
-    width: 30rem;
+    width: 15rem;
     margin-left: 20px;
    
 
 }
 .R-hr2{
     position: absolute;
-    width: 100px;
+    width: 15rem;
     border: 1px solid  rgb(233, 233, 238);
-    margin-left: 135px;
+    margin-left: 265px;
     margin-top: -10px;
     
    

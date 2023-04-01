@@ -84,7 +84,7 @@ function Cartlist() {
           </div>
           
          <div className='tax-price'> <p className='lap-price'>{product.price} </p> <p className='tax'>{product.tax}</p></div>
-         <p className='gst'>{product.gst}</p>
+         <p className='gst'>Includes GST {product.gst}</p>
          <div className='details'>
          <p className='v-details' href='/#'>View Details</p>
           <p href='/#'><MdOutlineArrowForwardIos className='arrow' /></p>

@@ -3,6 +3,7 @@ import './Cartbuttons.css'
 import { useDispatch } from 'react-redux';
 import { addToCart } from '../../../redux/cart';
 
+
 function BeforeCart({product}) {
   const dispatch =useDispatch();
   return (
